@@ -53,6 +53,7 @@ Legend: ✅ Confirmed working, ❔ Unconfirmed, - Not available in the store
 | State of Decay 2 | ✅ | ❔ |
 | Totally Accurate Battle Simulator | ✅ | - |
 | Wo Long: Fallen Dynasty | ❔ | - |
+| Abiotic Factor | ❔ | - |
 | Yakuza 0 | ✅ | - |
 
 ## Incompatible games
