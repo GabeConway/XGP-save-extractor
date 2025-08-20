@@ -17,6 +17,7 @@ Legend: ✅ Confirmed working, ❔ Unconfirmed, - Not available in the store
 
 | Game | Tested w/ Steam | Tested w/ Epic |
 |-|-|-|
+| Abiotic Factor | ❔ | - |
 | Arcade Paradise | ✅ | ✅ |
 | Atomic Heart | ✅ | - |
 | The Callisto Protocol | ✅ | - |
@@ -53,7 +54,6 @@ Legend: ✅ Confirmed working, ❔ Unconfirmed, - Not available in the store
 | State of Decay 2 | ✅ | ❔ |
 | Totally Accurate Battle Simulator | ✅ | - |
 | Wo Long: Fallen Dynasty | ❔ | - |
-| Abiotic Factor | ❔ | - |
 | Yakuza 0 | ✅ | - |
 
 ## Incompatible games
